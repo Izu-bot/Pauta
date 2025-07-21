@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define TASK_FILE "tarefas.txt"
+#define TASK_FILE ".tarefas.txt"
 
 // Estrutura para armazenar widgets importantes
 typedef struct {

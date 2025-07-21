@@ -8,7 +8,7 @@ Um simples aplicativo de lista de tarefas (TODO list) para o desktop GNOME, cons
 
 O Pauta é uma aplicação minimalista para gerenciar suas tarefas diárias. Desenvolvido para se integrar perfeitamente ao ambiente de desktop GNOME, ele utiliza as tecnologias mais recentes da plataforma para uma experiência de usuário limpa, moderna e responsiva.
 
-As tarefas são salvas localmente em um arquivo de texto (`tarefas.txt`), garantindo que seus dados permaneçam sempre com você, de forma simples e transparente.
+As tarefas são salvas localmente em um arquivo de texto na Home (`.tarefas.txt`), garantindo que seus dados permaneçam sempre com você, de forma simples e transparente.
 
 ### Funcionalidades
 

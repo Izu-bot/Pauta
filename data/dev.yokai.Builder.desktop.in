@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=pauta
-Exec=pauta
+Name=Pauta
+Exec=Pauta
 Icon=dev.yokai.Builder
 Terminal=false
 Type=Application
