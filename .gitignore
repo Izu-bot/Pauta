@@ -1,0 +1,33 @@
+# Ignore build directories
+/build/
+*/build/
+*.o
+*.so
+*.a
+
+# Ignore Flatpak specific files
+*.flatpak
+*.flatpakref
+*.flatpakrepo
+*.json
+
+# Ignore GTK specific files
+*.gresource
+*.gir
+*.typelib
+
+# Ignore temporary files
+*.tmp
+*.log
+*.cache
+*.swp
+*.swo
+
+# Ignore IDE specific files (if applicable)
+.vscode/
+.idea/
+*.iml
+
+# Ignore other common files
+.DS_Store
+Thumbs.db
