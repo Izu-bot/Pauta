@@ -4,13 +4,14 @@
     "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "pauta",
-    "finish-args" : [
-        "--share=network",
-        "--share=ipc",
-        "--socket=fallback-x11",
-        "--device=dri",
-        "--socket=wayland"
-    ],
+    "finish-args": [
+    	"--share=network",
+    	"--share=ipc",
+    	"--socket=fallback-x11",
+    	"--device=dri",
+    	"--socket=wayland",
+    	"--socket=session-bus"
+	],
     "cleanup" : [
         "/include",
         "/lib/pkgconfig",
