@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=dev.yokai.Builder
+Exec=/app/bin/pauta --gapplication-service

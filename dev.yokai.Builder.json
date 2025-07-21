@@ -31,7 +31,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/kauan/Projects"
+                    "url" : "/home/kauan/Projects/Pauta",
+                    "branch" : "main"
                 }
             ]
         }
