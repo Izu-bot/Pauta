@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/dev.yokai.Builder.desktop.in
+data/dev.yokai.Builder.metainfo.xml.in
+data/dev.yokai.Builder.gschema.xml
+src/main.c
+src/pauta-window.c
+src/pauta-window.ui
