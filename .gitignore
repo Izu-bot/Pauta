@@ -4,6 +4,7 @@
 *.o
 *.so
 *.a
+build-dir
 
 # Ignore Flatpak specific files
 *.flatpak
@@ -11,7 +12,6 @@
 *.flatpakrepo
 *.json
 *.flatpak-builder
-*.build-dir
 
 # Ignore GTK specific files
 *.gresource
