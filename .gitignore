@@ -10,6 +10,8 @@
 *.flatpakref
 *.flatpakrepo
 *.json
+*.flatpak-builder
+*.build-dir
 
 # Ignore GTK specific files
 *.gresource
