@@ -1,5 +1,0 @@
-[Runtime]
-name=dev.yokai.Builder.Debug
-
-[ExtensionOf]
-ref=app/dev.yokai.Builder/x86_64/master
